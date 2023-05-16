@@ -1,3 +1,6 @@
+### :camera: View Project Demo on YouTube
+https://youtu.be/Ns0clDsCwmM
+
 ### :camera: Screenshots
 
 <div align="center">
@@ -37,5 +40,4 @@ This project made by Ali Batuhan AK.
 ## :handshake: Contact
 
 Ali Batuhan Ak - [@alibatuhanak1](https://twitter.com/alibatuhanak1) - alibatuhanak@gmail.com
-
-Project Link: [https://github.com/alibatuhanak/MERN-ToDo-App](https://github.com/alibatuhanak/MERN-ToDo-App)
+Linkedin - https://www.linkedin.com/in/alibatuhanak
