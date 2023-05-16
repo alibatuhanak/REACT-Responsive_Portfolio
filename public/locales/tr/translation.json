@@ -1,0 +1,42 @@
+{
+	"Home": {
+		"1": "Anasayfa"
+	},
+	"Project": {
+		"1": "Projeler",
+		"2": "En son çalışmalarımdan bazıları"
+	},
+	"About": {
+		"1": "Hakkımda",
+		"2": "Ben arkadaş canlısı bir Front-End Geliştiriciyim",
+		"3": "Ben Kimim?",
+		"4": "Ben bir React Geliştiricisiyim. Müşterilerim için duyarlı güvenli web siteleri oluşturuyorum."
+	},
+	"Contact": {
+		"1": "İletişim",
+		"2": "Temasa geçin"
+	},
+	"Company": {
+		"1": "Şirket Hakkında",
+		"2": "Galatasaray'ın eski teknik direktörü, daha önce dört kez görevde bulundu."
+	},
+	"Form": {
+		"1": "Başarıyla Gönderildi",
+		"2": "Üzgünüz, Tekrar Deneyiniz",
+		"3": "Adınız",
+		"4": "Email",
+		"5": "Konu",
+		"6": "Mesaj",
+		"7": "Buraya yazınız...",
+		"8": "Onayla"
+	},
+	"Pricing": {
+		"1": "Fiyat",
+		"2": "Basic",
+		"3": "Gün",
+		"4": "Sayfa",
+		"5": "Özellik",
+		"6": "Duyarlı Tasarım",
+		"7": "Satın Al"
+	}
+}

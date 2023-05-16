@@ -1,0 +1,42 @@
+{
+	"Home": {
+		"1": "Startseite"
+	},
+	"Project": {
+		"1": "Projekt",
+		"2": "Einige meiner neusten Arbeiten"
+	},
+	"About": {
+		"1": "Um",
+		"2": "Ich bin ein freundlicher Front-End-Entwickler",
+		"3": "Wer bin ich?",
+		"4": "Ich bin React-Entwickler. Ich erstelle reaktionsschnelle sichere Websites für meine Kunden."
+	},
+	"Contact": {
+		"1": "Kontakt",
+		"2": "In Kontakt kommen"
+	},
+	"Company": {
+		"1": "Über das Unternehmen",
+		"2": "Er ist der ehemalige Manager von Galatasaray, eine Position, die er zuvor viermal innehatte."
+	},
+	"Form": {
+		"1": "Erfolgreich gesendet",
+		"2": "Sorry, versuch es nochmal",
+		"3": "Ihren Namen",
+		"4": "Email",
+		"5": "Thema",
+		"6": "Nachricht",
+		"7": "Schreiben Sie ihre Nachricht hier...",
+		"8": "Einreichen"
+	},
+	"Pricing": {
+		"1": "Preisgestaltung",
+		"2": "Basic",
+		"3": "Tage",
+		"4": "Seiten",
+		"5": "Hervorgehoben",
+		"6": "Sich anpassendes Design",
+		"7": "Jetzt kaufen"
+	}
+}

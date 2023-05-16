@@ -1,0 +1,42 @@
+{
+	"Home": {
+		"1": "Home"
+	},
+	"Project": {
+		"1": "Project",
+		"2": "Some of my most recent works"
+	},
+	"About": {
+		"1": "About",
+		"2": "I'm a friendly Front-End Developer",
+		"3": "Who Am I?",
+		"4": "Im a react developer. I create responsive secure websites for my clients."
+	},
+	"Contact": {
+		"1": "Contact",
+		"2": "Get in touch"
+	},
+	"Company": {
+		"1": "About the company",
+		"2": "He is the former manager of Galatasaray, a position he previously held four times."
+	},
+	"Form": {
+		"1": "Successfully Sent",
+		"2": "Sorry, Try Again",
+		"3": "Your Name",
+		"4": "Email",
+		"5": "Subject",
+		"6": "Message",
+		"7": "Type your message here...",
+		"8": "Submit"
+	},
+	"Pricing": {
+		"1": "Pricing",
+		"2": "Basic",
+		"3": "Days",
+		"4": "Pages",
+		"5": "Featured",
+		"6": "Responsive Design",
+		"7": "Purchase Now"
+	}
+}

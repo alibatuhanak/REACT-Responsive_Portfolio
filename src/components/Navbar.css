@@ -1,0 +1,134 @@
+@import url("https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap");
+
+.navbar {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 1rem;
+	position: fixed;
+	width: 100%;
+	height: 90px;
+	z-index: 10;
+}
+
+.navbar__bg {
+	background-color: rgba(0, 0, 0, 0.7);
+	transition: 0.5s;
+}
+
+.navbar__logo-h1 {
+	margin: auto;
+	font-family: "Indie Flower", cursive;
+	font-weight: 500;
+}
+
+.nav__menu {
+	display: flex;
+}
+
+.nav__menu li {
+	padding: 0 1rem;
+}
+
+.nav__menu li a {
+	font-size: 1.2rem;
+	font-weight: 500;
+}
+.nav-item::after {
+	content: "";
+	display: block;
+	height: 3px;
+	width: 0;
+	background: transparent;
+	transition: width 0.7s ease-out, background-color 0.5s ease-out;
+}
+
+.nav-item:hover::after {
+	width: 100%;
+	background: #f9f3ee;
+}
+
+.nav-item .activated {
+	color: #73777b;
+}
+
+.hamburger {
+	display: none;
+}
+.nav__lang-item {
+	margin-left: auto;
+	margin-right: 10px;
+}
+.lang__menu {
+	cursor: pointer;
+	color: #f1f1f1;
+}
+
+.lang__content {
+	display: block;
+	position: absolute;
+	min-width: 160px;
+	z-index: 1;
+	background-color: #000000;
+	box-shadow: 0px 8px 16px 0px rgba(68, 62, 62, 0.7);
+}
+
+.lang__content li {
+	color: white;
+	padding: 12px 16px;
+	text-decoration: none;
+	display: block;
+}
+
+.lang__content li:hover {
+	background-color: #272424;
+}
+
+@media screen and (max-width: 1040px) {
+	.nav__menu {
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+		width: 100%;
+		height: 100vh;
+		background-color: rgba(0, 0, 0, 0.9);
+		position: absolute;
+		top: 0;
+		left: -100%;
+		z-index: -3;
+		transition: 0s;
+	}
+
+	.nav__menu.active {
+		left: 0;
+		transition: 0.3s;
+	}
+
+	.nav__menu li {
+		padding: 1rem 0;
+	}
+	.nav__menu li a {
+		font-size: 2rem;
+	}
+
+	.hamburger {
+		display: initial;
+		cursor: pointer;
+	}
+	.lang__content {
+		min-width: 120px;
+		line-height: 10px;
+		text-align: left;
+		right: 8vw;
+	}
+	.nav__lang-item {
+		margin-right: 20px;
+		margin-bottom: 4px;
+	}
+}
+
+@media screen and (max-width: 640px) {
+	.lang__content {
+		right: 12vw;
+	}
+}
